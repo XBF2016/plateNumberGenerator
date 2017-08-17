@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+
+	<group key="province" value="省">
+		<item key="北京" value="京">
+		</item>
+		<item key="天津" value="津">
+		</item>
+		<item key="重庆" value="渝">
+		</item>
+		<item key="上海" value="沪">
+		</item>
+		<item key="河北" value="冀">
+		</item>
+		<item key="山西" value="晋">
+		</item>
+		<item key="辽宁" value="辽">
+		</item>
+		<item key="吉林" value="吉">
+		</item>
+		<item key="黑龙江" value="黑">
+		</item>
+		<item key="江西" value="赣">
+		</item>
+		<item key="内蒙古" value="蒙">
+		</item>
+		
+		<!-- 
+		<item key="山东" value="鲁">
+		</item>
+		<item key="河南" value="豫">
+		</item>
+		<item key="湖北" value="鄂">
+		</item>
+		<item key="湖南" value="湘">
+		</item>
+		<item key="广东" value="粤">
+		</item>
+		<item key="海南" value="琼">
+		</item>
+		<item key="四川" value="川">
+		</item>
+		<item key="江苏	" value="江">
+		</item>
+		<item key="浙江" value="浙">
+		</item>
+		<item key="安徽" value="皖">
+		</item>
+		<item key="福建" value="闽 ">
+		</item>
+		<item key="贵州" value="贵">
+		</item>
+		<item key="云南" value="云">
+		</item>
+		<item key="陕西" value="陕">
+		</item>
+		<item key="甘肃" value="甘 ">
+		</item>
+		<item key="青海" value="青 ">
+		</item>
+		<item key="台湾" value="台">
+		</item>
+		<item key="广西" value="桂">
+		</item>
+		<item key="宁夏" value="宁">
+		</item>
+		<item key="新疆" value="新">
+		</item>
+		<item key="西藏" value="藏">
+		</item>
+		<item key="香港" value="港">
+		</item>
+		<item key="澳门" value="澳">
+		</item>
+		 -->
+	</group>
+	
+	<group key="京" value="北京">
+		<item key="A" value="出租车">
+		</item>
+		<item key="B" value="出租车">
+		</item>
+		<item key="C" value="政府公务车">
+		</item>
+		<item key="E" value="政府公务车">
+		</item>
+		<item key="F" value="政府公务车">
+		</item>
+		<item key="G" value="政府公务车">
+		</item>
+		<item key="H" value="政府公务车">
+		</item>
+		<item key="J" value="政府公务车">
+		</item>
+		<item key="K" value="政府公务车">
+		</item>
+		<item key="L" value="政府公务车">
+		</item>
+		<item key="M" value="政府公务车">
+		</item>
+		<item key="N" value="政府公务车">
+		</item>
+		<item key="O" value="政府公务车">
+		</item>
+		<item key="P" value="">
+		</item>
+		<item key="Q" value="">
+		</item>
+		<item key="Y" value="">
+		</item>
+	</group>
+	
+	
+	<group key="沪" value="上海">
+		<item key="A" value="">
+		</item>
+		<item key="B" value="远郊区县">
+		</item>
+		<item key="C" value="">
+		</item>
+		<item key="D" value="">
+		</item>
+		<item key="E" value="">
+		</item>
+		<item key="F" value="">
+		</item>
+		<item key="G" value="">
+		</item>
+		<item key="H" value="">
+		</item>
+		<item key="I" value="">
+		</item>
+		<item key="J" value="">
+		</item>
+		<item key="K" value="">
+		</item>
+		<item key="L" value="">
+		</item>
+		<item key="M" value="">
+		</item>
+		<item key="N" value="">
+		</item>
+	</group>
+	
+	
+	<group key="津" value="天津">
+		<item key="A" value="">
+		</item>
+		<item key="B" value="">
+		</item>
+		<item key="C" value="">
+		</item>
+		<item key="D" value="">
+		</item>
+		<item key="E" value="出租车">
+		</item>
+		<item key="F" value="">
+		</item>
+		<item key="G" value="">
+		</item>
+		<item key="H" value="">
+		</item>
+		<item key="I" value="">
+		</item>
+		<item key="J" value="">
+		</item>
+		<item key="K" value="">
+		</item>
+		<item key="L" value="">
+		</item>
+		<item key="M" value="">
+		</item>
+		<item key="N" value="">
+		</item>
+		<item key="Q" value="">
+		</item>
+		<item key="R" value="">
+		</item>
+	</group>
+	
+	
+	<group key="渝" value="重庆">
+		<item key="A" value="直属车辆管理所">
+		</item>
+		<item key="B" value="江南车辆管理分所">
+		</item>
+		<item key="C" value="永川车辆管理所">
+		</item>
+		<item key="F" value="万州车辆管理所">
+		</item>
+		<item key="G" value="涪陵车辆管理所">
+		</item>
+		<item key="H" value="黔江车辆管理所">
+		</item>
+		</group>
+		
+		<group key="冀" value="河北">
+		<item key="A" value="石家庄市">
+		</item>
+		<item key="B" value="唐山市">
+		</item>
+		<item key="C" value="秦皇岛市 ">
+		</item>
+		<item key="D" value="邯郸市 ">
+		</item>
+		<item key="E" value="邢台市 ">
+		</item>
+		<item key="F" value="保定市">
+		</item>
+		<item key="G" value="张家口市 ">
+		</item>
+		<item key="H" value="承德市">
+		</item>
+		<item key="J" value="沧州市 ">
+		</item>
+		<item key="R" value="廊坊市 ">
+		</item>
+		<item key="T" value="衡水市">
+		</item>
+		</group>
+		
+		
+		<group key="晋" value="山西">
+		<item key="A" value="太原市 ">
+		</item>
+		<item key="B" value="大同市 ">
+		</item>
+		<item key="C" value="阳泉市  ">
+		</item>
+		<item key="D" value="长治市  ">
+		</item>
+		<item key="E" value="晋城市  ">
+		</item>
+		<item key="F" value="朔州市 ">
+		</item>
+		<item key="H" value="忻州市">
+		</item>
+		<item key="J" value="吕梁地区  ">
+		</item>
+		<item key="K" value="晋中市  ">
+		</item>
+		<item key="L" value="临汾市 ">
+		</item>
+		<item key="M" value="运城市 ">
+		</item>
+		</group>
+		
+		
+		<group key="蒙" value="内蒙古">
+		<item key="A" value="呼和浩特市  ">
+		</item>
+		<item key="B" value="包头市  ">
+		</item>
+		<item key="C" value="乌海市   ">
+		</item>
+		<item key="D" value="赤峰市   ">
+		</item>
+		<item key="E" value="呼伦贝尔市   ">
+		</item>
+		<item key="F" value="兴安盟 ">
+		</item>
+		<item key="G" value="通辽市  ">
+		</item>
+		<item key="H" value="锡林郭勒盟 ">
+		</item>
+		<item key="J" value="乌兰察布盟   ">
+		</item>
+		<item key="K" value="鄂尔多斯市   ">
+		</item>
+		<item key="L" value="巴彦淖尔盟  ">
+		</item>
+		<item key="M" value="阿拉善盟 ">
+		</item>
+		</group>
+		
+		
+		<group key="辽" value="辽宁">
+		<item key="A" value="沈阳市">
+		</item>
+		<item key="B" value="大连市">
+		</item>
+		<item key="C" value="鞍山市">
+		</item>
+		<item key="D" value="抚顺市 ">
+		</item>
+		<item key="E" value="本溪市 ">
+		</item>
+		<item key="F" value="丹东市">
+		</item>
+		<item key="G" value="锦州市">
+		</item>
+		<item key="H" value="营口市">
+		</item>
+		<item key="J" value="阜新市">
+		</item>
+		<item key="K" value="辽阳市">
+		</item>
+		<item key="L" value="盘锦市">
+		</item>
+		<item key="M" value="阿拉善盟">
+		</item>
+		<item key="N" value="朝阳市 ">
+		</item>
+		<item key="P" value="葫芦岛市 ">
+		</item>
+		<item key="V" value="省直机关">
+		</item>
+		</group>
+		
+		
+		<group key="吉" value="吉林">
+		<item key="A" value="长春市 ">
+		</item>
+		<item key="B" value="吉林市 ">
+		</item>
+		<item key="C" value="四平市 ">
+		</item>
+		<item key="D" value="辽源市  ">
+		</item>
+		<item key="E" value="通化市  ">
+		</item>
+		<item key="F" value="白山市 ">
+		</item>
+		<item key="G" value="白城市">
+		</item>
+		<item key="H" value="延边朝鲜族自治州 ">
+		</item>
+		<item key="J" value="松原市">
+		</item>
+		</group>
+		
+		
+		<group key="黑" value="黑龙江">
+		<item key="A" value="哈尔滨市">
+		</item>
+		<item key="B" value="齐齐哈尔市">
+		</item>
+		<item key="C" value="牡丹江市">
+		</item>
+		<item key="D" value="佳木斯市 ">
+		</item>
+		<item key="E" value="大庆市   ">
+		</item>
+		<item key="F" value="伊春市 ">
+		</item>
+		<item key="G" value="鸡西市 ">
+		</item>
+		<item key="H" value="鹤岗市  ">
+		</item>
+		<item key="J" value="双鸭山市 ">
+		</item>
+		<item key="K" value="七台河市  ">
+		</item>
+		<item key="L" value="松花江地区">
+		</item>
+		<item key="M" value="绥化市  ">
+		</item>
+		<item key="N" value="黑河市  ">
+		</item>
+		<item key="P" value="大兴安岭地区   ">
+		</item>
+		<item key="R" value="农垦系统 ">
+		</item>
+		</group>
+		
+		
+		<group key="赣" value="江西">
+		<item key="A" value="南昌市 ">
+		</item>
+		<item key="B" value="赣州市 ">
+		</item>
+		<item key="C" value="宜春市 ">
+		</item>
+		<item key="D" value="吉安市  ">
+		</item>
+		<item key="E" value="上饶市">
+		</item>
+		<item key="F" value="抚州市">
+		</item>
+		<item key="G" value="九江市 ">
+		</item>
+		<item key="H" value="景德镇市   ">
+		</item>
+		<item key="J" value="萍乡市">
+		</item>
+		<item key="K" value="新余市">
+		</item>
+		<item key="L" value="鹰潭市">
+		</item>
+		<item key="M" value=" 南昌 省直系统">
+		</item>
+		</group>
+		
+		
+</dictionary>
